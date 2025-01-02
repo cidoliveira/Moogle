@@ -1,7 +1,6 @@
-import { testDictionary, realDictionary } from "./dictionary.js";
+import { realDictionary } from "./dictionary.js";
 
 // for testing purposes, make sure to use the test dictionary
-console.log("test dictionary:", testDictionary);
 
 const dictionary = realDictionary;
 const state = {
